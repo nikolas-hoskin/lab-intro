@@ -1,8 +1,9 @@
 # lab-intro
+
 ### The story of the giant
 
-What a giant waste of time
+The giant grew so tall
 
-My data is all bad
+The giant is now dead
 
-What a giant waste of time
+dog
